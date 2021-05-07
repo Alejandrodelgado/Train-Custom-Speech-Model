@@ -62,7 +62,7 @@ Create the following services:
 
 * [**Watson Speech To Text**](https://cloud.ibm.com/catalog/services/speech-to-text)
 
-> Note: In order to perform customization, you will need to select the `Standard` paid plan.
+> Note: In order to perform customization, you will need to select the `Standard` paid plan. (other option ibm.com/academic)
 
 ## 3. Configure credentials
 
